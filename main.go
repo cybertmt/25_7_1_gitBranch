@@ -22,7 +22,7 @@ func main(){
 		"Mary" : {"Mary","M.",18,"Female",0},
 		"Jane" : {"Jane","J.",30,"Female",1},
 		"Patrick" : {"Patrick","K.",28,"Male",15},
-		"Freddy" : {"Freddy","",40,"Male",50},
+		"Freddy" : {"Freddy","",40,"Male",55},
 	}
 
 	var suspects []string // Список подозреваемых
