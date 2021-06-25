@@ -49,6 +49,7 @@ func main(){
 		fmt.Printf( "%s is the criminal with %d crimes\n", topCriminal, topCrimesNumber)
 	}
 	}
+	fmt.Println("Version 1.1")
 	fmt.Print("\nPress any key...")
 	_, _ = fmt.Scanln()
 }
